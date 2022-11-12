@@ -1,3 +1,3 @@
-#Attendence Automation using Facerecognition System
+# Attendence Automation using Face_Recognition System
 
-Description - System mad using python3 where One can upload his/her <students> upload their image [Facce Image] which is read and stored by the Face-recog python module.
+Description - System made using python3 he/she <students/faculty> upload their image [Facce Image] which is read and stored by the Face-recog python module.
